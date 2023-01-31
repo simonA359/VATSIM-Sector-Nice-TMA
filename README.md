@@ -34,8 +34,8 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 
 + <ins>**ARTCC boundary**</ins>
 	+ TMA LFMN Monaco R106
-	+ TMA LFMN TMA Nice
-	+ TMA LFMN TMA Nice (INI)<br>
+	+ TMA LFMN SIV Nice
+	+ TMA LFMN TMA Nice<br>
 
 ## Captures d'écran
 
