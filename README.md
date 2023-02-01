@@ -22,8 +22,11 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 	+ LFMD Vectors Trajectoire Départs
 	+ LFMN Vectors Départs 04L/R
 	+ LFMN Vectors Départs 22L/R
+	+ LFMN Vectors Finale ILS 04L
+	+ LFMN Vectors Finale ILS 04R
 	+ LFMN Vectors Finale RNP A (04L/R)
 	+ LFMN Vectors Finale RNP D (22L/R)
+	+ LFMN Vectors Finale VOR B (22L/R)
 	+ LFMN Vectors Points VFR
 	+ LFMN Vectors Trajectoires VFR
 	+ LFTZ Vectors Finale VOR A (06/24)<br>
