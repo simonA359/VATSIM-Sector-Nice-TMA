@@ -18,18 +18,18 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 ## Eléments disponibles
 
 + <ins>**GEO**</ins>
-	+ LFMD Vectors Finale OBOTA
-	+ LFMD Vectors Trajectoire Départs
-	+ LFMN Vectors Départs 04L/R
-	+ LFMN Vectors Départs 22L/R
+	+ LF**MD** Vectors Finale OBOTA
+	+ LF**MD** Vectors Repere Departs
 	+ LFMN Vectors Finale ILS 04L
 	+ LFMN Vectors Finale ILS 04R
 	+ LFMN Vectors Finale RNP A (04L/R)
 	+ LFMN Vectors Finale RNP D (22L/R)
 	+ LFMN Vectors Finale VOR B (22L/R)
 	+ LFMN Vectors Points VFR
+	+ LFMN Vectors Repere Departs 04L/R
+	+ LFMN Vectors Repere Departs 22L/R
 	+ LFMN Vectors Trajectoires VFR
-	+ LFTZ Vectors Finale VOR A (06/24)<br>
+	+ LF**TZ** Vectors Finale VOR A (06/24)<br>
 
 + <ins>**REGIONS**</ins>
 	+ LFMN Zone Guidage BISBO
