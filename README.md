@@ -42,4 +42,10 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 
 ## Captures d'écran
 
-TODO
+| Config 04 | Config 04 (INI) | Toutes config (+points) |
+| ------------- | ------------- | ------------- |
+| ![04](https://user-images.githubusercontent.com/85018190/216082855-b14ad46c-d7cb-4f37-8984-c86a16ab3ac1.jpg) | ![ini 04](https://user-images.githubusercontent.com/85018190/216082870-235aeeb4-52d4-48b7-94e6-6a4afba824da.jpg) | ![points+noms](https://user-images.githubusercontent.com/85018190/216082900-b33a6ef2-f023-4810-8006-95849a0b18d9.jpg) |
+
+| Config 22 | Config 22 (INI) | ILS 04L et VOR B (22L/R) |
+| ------------- | ------------- | ------------- |
+| ![22](https://user-images.githubusercontent.com/85018190/216083026-8e020b36-3226-453e-9770-be9f350dcff3.jpg) | ![ini 22](https://user-images.githubusercontent.com/85018190/216083057-191b77f5-af13-4ccc-a976-23859bfe6673.jpg) | ![ils+vor](https://user-images.githubusercontent.com/85018190/216083107-0e5e0497-e207-44b5-a277-0e18d1b08f58.jpg) |
