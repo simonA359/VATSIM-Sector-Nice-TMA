@@ -47,6 +47,6 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 
 ## Captures d'écran
 
-| Config 04 | Config 04 (INI) | Toutes config (+points) |
+| Config 04 | Config 22 | Attentes |
 | ------------- | ------------- | ------------- |
-| ![04](https://user-images.githubusercontent.com/85018190/216082855-b14ad46c-d7cb-4f37-8984-c86a16ab3ac1.jpg) | ![ini 04](https://user-images.githubusercontent.com/85018190/216082870-235aeeb4-52d4-48b7-94e6-6a4afba824da.jpg) | ![points+noms](https://user-images.githubusercontent.com/85018190/216082900-b33a6ef2-f023-4810-8006-95849a0b18d9.jpg) |
+| ![nice2](https://user-images.githubusercontent.com/85018190/235376224-dfe895fc-578f-4d9f-a991-1ec860f32d2e.png) | ![nice1](https://user-images.githubusercontent.com/85018190/235376231-59542f14-cabe-4fad-afd6-3416998c3a7d.png) | ![nice3](https://user-images.githubusercontent.com/85018190/235376234-959b09f0-10cb-4d3f-81d8-cee4a39bca81.png) |
