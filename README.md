@@ -18,34 +18,35 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 ## Eléments disponibles
 
 + <ins>**GEO**</ins>
-	+ LF**MD** Vectors Finale OBOTA
-	+ LF**MD** Vectors Repere Departs
-	+ LFMN Vectors Finale ILS 04L
-	+ LFMN Vectors Finale ILS 04R
-	+ LFMN Vectors Finale RNP A (04L/R)
-	+ LFMN Vectors Finale RNP D (22L/R)
-	+ LFMN Vectors Finale VOR B (22L/R)
-	+ LFMN Vectors Points VFR
+	+ **LFMD** Vectors **Finale** OBOTA
+	+ **LFMD** Vectors Repere Departs
+	+ LFMN Vectors **Finale** ILS 04L
+	+ LFMN Vectors **Finale** ILS 04R
+	+ LFMN Vectors **Finale** RNP A (04L/R)
+	+ LFMN Vectors **Finale** RNP D (22L/R)
+	+ LFMN Vectors **Finale** RNP Y/Z 04L
+	+ LFMN Vectors **Finale** RNP Y/Z 04R
+	+ LFMN Vectors **Finale** VOR B (22L/R)
+	+ LFMN Vectors *INI* BISBO 1M/1N
+	+ LFMN Vectors *INI* LEMPU 1M/1N
+	+ LFMN Vectors *INI* RAPOT 1M/1N
+	+ LFMN Vectors *INI* SOTOX 1M/1N
 	+ LFMN Vectors Repere Departs 04L/R
 	+ LFMN Vectors Repere Departs 22L/R
 	+ LFMN Vectors Trajectoires VFR
-	+ LF**TZ** Vectors Finale VOR A (06/24)<br>
+	+ **LFTZ** Vectors **Finale** VOR A (06/24)<br>
 
 + <ins>**REGIONS**</ins>
-	+ LFMN Zone Guidage BISBO
-	+ LFMN Zone Guidage NANAX<br>
+  + LFMN Zone Guidage BISBO
+  + LFMN Zone Guidage NANAX<br>
 
 + <ins>**ARTCC boundary**</ins>
-	+ TMA LFMN Monaco R106
-	+ TMA LFMN SIV Nice
-	+ TMA LFMN TMA Nice<br>
+  + TMA LFMN Monaco R106
+  + TMA LFMN Attentes MUS/NERAS
+  + TMA LFMN Delimitations TMA<br>
 
 ## Captures d'écran
 
 | Config 04 | Config 04 (INI) | Toutes config (+points) |
 | ------------- | ------------- | ------------- |
 | ![04](https://user-images.githubusercontent.com/85018190/216082855-b14ad46c-d7cb-4f37-8984-c86a16ab3ac1.jpg) | ![ini 04](https://user-images.githubusercontent.com/85018190/216082870-235aeeb4-52d4-48b7-94e6-6a4afba824da.jpg) | ![points+noms](https://user-images.githubusercontent.com/85018190/216082900-b33a6ef2-f023-4810-8006-95849a0b18d9.jpg) |
-
-| Config 22 | Config 22 (INI) | ILS 04L et VOR B (22L/R) |
-| ------------- | ------------- | ------------- |
-| ![22](https://user-images.githubusercontent.com/85018190/216083026-8e020b36-3226-453e-9770-be9f350dcff3.jpg) | ![ini 22](https://user-images.githubusercontent.com/85018190/216083057-191b77f5-af13-4ccc-a976-23859bfe6673.jpg) | ![ils+vor](https://user-images.githubusercontent.com/85018190/216083107-0e5e0497-e207-44b5-a277-0e18d1b08f58.jpg) |
